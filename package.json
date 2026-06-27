@@ -1,0 +1,25 @@
+{
+  "name": "calendar-widget",
+  "version": "1.0.0",
+  "description": "A small calendar widget for desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh3rqxs/calendar-widget.git"
+  },
+  "keywords": [],
+  "author": "sh3rqxs",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sh3rqxs/calendar-widget/issues"
+  },
+  "homepage": "https://github.com/sh3rqxs/calendar-widget#readme",
+  "devDependencies": {
+    "electron": "^42.5.0",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
